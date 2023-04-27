@@ -40,21 +40,21 @@ ul li a{
 header{
    background-color: lightgray;
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .sobre h1{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 50px;
+
 
 }
-.sobre{ 
-    margin-left: 50px;
-}
-img{
+
+.imagem img{
     display: flex;
    width: 300px; 
-   margin-left: 110%;
+   margin-left: 10%;
    margin-top: -20%;
 }
 footer ul {
